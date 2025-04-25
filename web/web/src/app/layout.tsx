@@ -1,7 +1,6 @@
-import "./globals.css";
+import "../../styles/globals.css";
 import { ReactNode } from "react";
 import Navbar from "../../components/Navbar";
-import RootLayout from './layout';
 
 export const metadata = {
   title: "FridgeFlow",
